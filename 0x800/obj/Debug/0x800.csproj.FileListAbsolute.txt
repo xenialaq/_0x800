@@ -1,0 +1,10 @@
+C:\Users\Ke\Dropbox\documents\visual studio 2013\Projects\0x800\0x800\obj\Debug\0x800.csprojResolveAssemblyReference.cache
+C:\Users\Ke\Dropbox\documents\visual studio 2013\Projects\0x800\0x800\bin\Debug\0x800.exe
+C:\Users\Ke\Dropbox\documents\visual studio 2013\Projects\0x800\0x800\bin\Debug\0x800.pdb
+C:\Users\Ke\Dropbox\documents\visual studio 2013\Projects\0x800\0x800\obj\Debug\0x800.exe
+C:\Users\Ke\Dropbox\documents\visual studio 2013\Projects\0x800\0x800\obj\Debug\0x800.pdb
+C:\Users\Ke\Dropbox\Documents\GitHub\_0x800\0x800\obj\Debug\0x800.exe
+C:\Users\Ke\Dropbox\Documents\GitHub\_0x800\0x800\obj\Debug\0x800.pdb
+C:\Users\Ke\Dropbox\Documents\GitHub\_0x800\0x800\bin\Debug\0x800.exe
+C:\Users\Ke\Dropbox\Documents\GitHub\_0x800\0x800\bin\Debug\0x800.pdb
+C:\Users\Ke\Dropbox\Documents\GitHub\_0x800\0x800\obj\Debug\0x800.csprojResolveAssemblyReference.cache
